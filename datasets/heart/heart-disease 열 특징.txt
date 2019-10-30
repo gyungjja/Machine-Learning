@@ -1,0 +1,31 @@
+-heart disease 열 특징
+
+age: 연령
+sex: 성별(1 = 남성, 0 = 여성)
+cp: 가슴 통증 유형
+value 1: 일반적인 혈관 형성
+value 2: 비정형 혈관
+value 3: 비혈관 질환
+value 4: 무증상
+Trestbps: 휴면 혈압(병원 입원 시 mm Hg)
+chol: 혈청 콜레스트롤(mg/dl)
+fbs: (혈당 > 120 mg/dl) (1 = 참, 0 = 거짓)
+resecg: 휴식 심전도의 결과
+value 0: 정상
+value 1: ST-T 파형 이상(T 파형 반전 및/또는 ST 상승 또는 하강이 0.05mV를 초과함)
+value 2: 에스테스의 기준에 의한 발생가능하거나 분명한 좌심실비대증을 보여준다.
+talach: 최대 심장 박동수 달성
+exang: 운동 유도 혈관부(1 = 예, 0 = 아니오)
+oldpeak = 휴식과 관련된 운동에 의해 유발된 ST 우울증
+slope: 피크 연습 ST 세그먼트의 기울기
+value 1: 상향 조정
+value 2: 플랫
+value 3: 다운스트림
+ca: 푸로사피 색상의 주요 용기 수(0-3)
+thal: 3 = 정상, 6 = 고정 결함, 7 = 반전 가능한 결함
+pred_attribute: 심장병 진단(양성 질환 상태)
+
+
+
+
+https://github.com/MaryemZOBI/Heart_Disease_Project/blob/master/Heart_Disease_Project.ipynb
